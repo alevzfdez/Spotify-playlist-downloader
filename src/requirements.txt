@@ -1,0 +1,11 @@
+coloredlogs
+logging
+requests
+argparse
+
+ffmpeg
+bs4
+youtube_dl
+urllib3
+mutagen
+
